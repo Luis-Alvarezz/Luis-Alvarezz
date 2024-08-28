@@ -66,12 +66,12 @@
 <hr width="100%" >
 
 <!-- Contact with me-->
-<h3 align="center"> Contact with me </h3>
+<h3 align="center"> Connect with me </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-angel-alvarez-vazquez" target="_blank">
   <img align="center" alt="Luis Alvarez | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="" target="_blank">
+  <a href="https://x.com/Pillo_pup?t=vZp8vPMZY7emNd2wXsKixg&s=09" target="_blank">
   <img align="center" alt="Luis Alvarez | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" /> 
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/luis._.alvarezz?igsh=MTE2dmtqdDV4bGFraQ==" target="_blank">
