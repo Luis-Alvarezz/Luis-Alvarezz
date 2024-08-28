@@ -51,11 +51,36 @@
 <hr width="100%" >
 <br>
 
-<!-- TROFEOS GITHUB -->
+<!-- GITHUB TROPHIES -->
+<h3> 🏆 GitHub Trophies 🏆</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
+<hr width="100%" >
+<br>
+
+<!-- Contact with me-->
+<h3> Contact with me </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-angel-alvarez-vazquez" target="_blank">
+  <img align="center" alt="Luis Alvarez | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="" target="_blank">
+  <img align="center" alt="Luis Alvarez | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" /> 
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/luis._.alvarezz?igsh=MTE2dmtqdDV4bGFraQ==" target="_blank">
+  <img align="center" alt="Luis Alvarez | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:luisangelug10@gmail.com" >
+  <img align="center" alt="Luis Alvarez | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/luisangel.alvarez.1428?mibextid=ZbWKwL">
+    <img align="center" alt="Luis Alvarez | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+<p>
+
+
 <br><br>
-<p>Last Edit: Tuesday August 27th, 2024</p>
+<p>Last Edit: Wednesday August 28th, 2024</p>
 
 
 <!--
